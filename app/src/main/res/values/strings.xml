@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Local Bowlers</string>
+    <string name="title_activity_login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="register">register</string>
+    <string name="registration">Registration</string>
+    <string name="fnamehint">Enter your first name</string>
+    <string name="famnamehint">Enter your family name</string>
+    <string name="dobhint">Enter your date of birth</string>
+    <string name="emailhint">Enter your email</string>
+    <string name="passwordhint">Enter your password</string>
+    <string name="complete_registration">Complete Registration</string>
+    <string name="welcome">Welcome!</string>
+    <string name="events">View upcoming events!</string>
+    <string name="newsletter">Read this week\'s newsletter!</string>
+    <string name="performance">See your previous performances!</string>
+    <string name="bowlingpicture">BowlingPicture</string>
+    <string name="enter">Enter</string>
+    <string name="loginmsg">If you already have an account with us, login. If you are new here, click register to create an account.</string>
+</resources>
