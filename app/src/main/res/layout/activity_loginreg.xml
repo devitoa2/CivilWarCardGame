@@ -81,6 +81,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/bowling2" />
+        app:srcCompat="@drawable/civilwar2" />
 
 </android.support.constraint.ConstraintLayout>
